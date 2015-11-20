@@ -1,0 +1,9 @@
+figure,figcaption{
+	display: block;
+	text-align: center; 
+}
+
+div.clase{
+    margin: 0 auto;
+    width: 23%;
+}

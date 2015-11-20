@@ -1,0 +1,28 @@
+body{
+	background: #orange;
+	margin: 0;
+	padding: 20px;
+	line-height: 1.4en;
+}
+
+table{
+	width: 80%;
+	margin: 0;
+	background: #blue;
+	border: 1px solid: #black;
+	border-collapse: collapse;
+}
+
+td, th{
+	border-bottom: 1px solid:#black;
+	padding: 6px 16px;
+	text-align: center;
+}
+
+th{
+	background: #EEEEEE;
+}
+
+caption{
+	font-weight: bold;
+}
